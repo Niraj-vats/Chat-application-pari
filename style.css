@@ -148,7 +148,7 @@ section {
   margin-top: 8px;
   background-color: rgb(234, 241, 251);
   display: flex;
-  width: 720px;
+  width: 520px;
   box-sizing: border-box;
   padding: 16px 24px;
   border-radius: 65px;
@@ -551,6 +551,27 @@ section{
 }
 #midbtn1{
   margin: 40px 0px;
+}
+#reply{
+  width: 60vw;
+  height: 60px;
+   margin-top: 100px;
+   display: flex;
+   font-size: 5rem;
+   margin-left: 30px;
+}
+#sendMessage{
+  height: 55px;
+  margin-top: 8px;
+  background-color: rgb(234, 241, 251);
+  display: flex;
+  width: 320px;
+  box-sizing: border-box;
+  padding: 16px 24px;
+  border-radius: 65px;
+  outline: none;
+  border: 1px solid #aaa;
+  font-size: 15px;
 }
 }
 
